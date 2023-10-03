@@ -1,2 +1,2 @@
 # TextUtlis
-A Text analyzer website created by Using backend of Django
+A Text Analyzer Website created using python backend framework Django.
